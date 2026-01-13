@@ -1,27 +1,17 @@
+import pandas as pd
+from paths import ENTRADA_EQUIPAMENTOS, RELATORIO_DE_EQUIPAMENTOS
+
 def executar():
-
-    import pandas as pd
-    from pathlib import Path
-
-    BASE = Path(__file__).parent.parent
-
-    ENTRADA = BASE / "entrada"
-    RELATORIO = BASE / "relatorios"
-    SAIDA = BASE / "saida"
-
 
     pd.set_option('display.max_columns', None)
     pd.set_option('display.width', None)
 
-    # Ler arquivo
-    df = pd.read_excel(ENTRADA / "relatorio_equipamento.xlsx")
+    df = pd.read_excel(ENTRADA_EQUIPAMENTOS / "relatorio_equipamento.xlsx")
 
-    # Filtrar linhas corretamente
     df_campo = df[
         df["STATUS"].isin(["Com Técnico", "confirmação do técnico"])
     ]
 
-    # Manter somente as colunas necessárias
     colunas_desejadas = [
         'TECNICO',
         'DESCRICAO',
@@ -29,7 +19,6 @@ def executar():
 
     df_equipamentos_em_campo = df_campo.loc[:, colunas_desejadas]
 
-    # Conferência final
     resumo_por_tecnico = (
         df_equipamentos_em_campo
         .groupby(['TECNICO', 'DESCRICAO'], as_index=False)
@@ -44,7 +33,7 @@ def executar():
         fill_value=0
     )
 
-    with pd.ExcelWriter(RELATORIO / "equipamentos_em_campo.xlsx", engine="openpyxl") as writer:
+    with pd.ExcelWriter(RELATORIO_DE_EQUIPAMENTOS / "equipamentos_em_campo.xlsx", engine="openpyxl") as writer:
         df_equipamentos_em_campo.to_excel(
             writer,
             sheet_name="Detalhado",

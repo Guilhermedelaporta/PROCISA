@@ -1,24 +1,12 @@
-from pathlib import Path
 import pandas as pd
-from dados.scripts.reservas import RELATORIO
+from paths import REGRAS_EQUIPAMENTOS,REGRAS_ESCALA,RELATORIO_DE_EQUIPAMENTOS,SAIDA
 
+def executar():
 
-def executar(dia_alvo=None):
-    from datetime import datetime
+    kit_minimo = pd.read_excel(REGRAS_EQUIPAMENTOS / "kit_minimo.xlsx")
+    tecnicos = pd.read_excel(REGRAS_ESCALA / "escala_almoxarifado.xlsx")
+    campo = pd.read_excel(RELATORIO_DE_EQUIPAMENTOS / "equipamentos_em_campo.xlsx", sheet_name="Resumo")
 
-    DEBUG = True
-
-    BASE = Path(__file__).resolve().parent.parent
-    REGRAS = BASE / "regras"
-    SAIDA = BASE / "saida"
-    SAIDA.mkdir(exist_ok=True)
-
-    # 🔹 Ler arquivos
-    kit_minimo = pd.read_excel(REGRAS / "kit_minimo.xlsx")
-    tecnicos = pd.read_excel(REGRAS / "escala_almoxarifado.xlsx")
-    campo = pd.read_excel(RELATORIO / "equipamentos_em_campo.xlsx", sheet_name="Resumo")
-
-    # 🔹 Padronização
     for df in [kit_minimo, tecnicos, campo]:
         df.columns = df.columns.str.strip().str.upper()
 
@@ -43,47 +31,23 @@ def executar(dia_alvo=None):
         .str.replace("É", "E", regex=False)
     )
 
-    # 🔹 Dia alvo
-    dias_semana = {
-        0: "SEGUNDA",
-        1: "TERÇA",
-        2: "QUARTA",
-        3: "QUINTA",
-        4: "SEXTA",
-        5: "SÁBADO",
-        6: "DOMINGO"
-    }
-
-    DIA_ALVO = dias_semana[datetime.today().weekday()] if dia_alvo is None else dia_alvo.upper()
-    DIA_ALVO = (
-        DIA_ALVO
-        .replace("Ç", "C")
-        .replace("Á", "A")
-        .replace("Ã", "A")
-        .replace("É", "E")
-    )
-
-    if DEBUG:
-        print(f"Gerando separação para o dia: {DIA_ALVO}")
-
-    # 🔹 Filtro correto
-    tecnicos_hoje = tecnicos[
-        tecnicos["ALMOXARIFADO"].str.contains(
-            rf"(?:^|[/, ]){DIA_ALVO}(?:$|[/, ])",
-            regex=True,
-            na=False
-        )
-    ]
-
-    if DEBUG:
-        print("=== TÉCNICOS SELECIONADOS ===")
-        print(tecnicos_hoje[["TECNICO", "ALMOXARIFADO"]])
+    tecnicos_hoje = tecnicos.copy()
 
     # 🔹 Montagem da separação
     linhas = []
 
+    # 🔹 Remove linhas inválidas (NaN)
+    tecnicos_hoje = tecnicos_hoje[
+        tecnicos_hoje["SKILL"].notna() &
+        tecnicos_hoje["TECNICO"].notna()
+        ]
+
     for _, tecnico in tecnicos_hoje.iterrows():
-        for skill in tecnico["SKILL"].split("+"):
+        skills = str(tecnico["SKILL"]).split("+")
+
+        for skill in skills:
+            skill = skill.strip()
+
             kit = kit_minimo[kit_minimo["TECNOLOGIA"] == skill.strip()]
 
             for _, item in kit.iterrows():
@@ -104,12 +68,11 @@ def executar(dia_alvo=None):
                     })
 
     pd.DataFrame(linhas).to_excel(
-        SAIDA / f"separacao_equipamentos_{DIA_ALVO}.xlsx",
+        SAIDA / f"separacao_de_equipamentos.xlsx",
         index=False
     )
 
-    print(f"✔ Separação gerada com sucesso para {DIA_ALVO}!")
-
+    print(f"✔ Separação gerada com sucesso para!")
 
 if __name__ == "__main__":
-    executar("QUARTA")
+    executar()

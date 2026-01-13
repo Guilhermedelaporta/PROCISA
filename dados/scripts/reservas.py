@@ -1,52 +1,54 @@
 import pandas as pd
-from pathlib import Path
-
-BASE = Path(__file__).parent.parent
-
-ENTRADA = BASE / "entrada"
-REGRAS = BASE / "regras"
-SAIDA = BASE / "saida"
-RELATORIO = BASE / "relatorios"
+from paths import ENTRADA_RESERVA,RELATORIO_DE_RESERVAS
 
 pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 
-# Ler arquivo
-df = pd.read_excel(ENTRADA / "RS 09_01.xlsx")
+def carregar_reservas(nome_arquivo):
+    caminho = ENTRADA_RESERVA / "reservas.xlsx"
+    return pd.read_excel(caminho)
 
-# Filtrar linhas
-df_reservas_porto_alegre = df[
-    (df["NM_MUNICIPIO_SAP"] == "PORTO ALEGRE") &
-    (df["STATUS_NF"] != "ENTREGA CONCLUIDA") &
-    (df["NM_FORN_SAP"].astype(str).str.contains("PROCISA", case=False, na=False))
-]
+def gerar_reservas_porto_alegre(nome_arquivo):
+    df = carregar_reservas(nome_arquivo)
 
-# ✅ MANTER SOMENTE AS COLUNAS NECESSÁRIAS
-colunas_desejadas = [
-    'NM_MUNICIPIO_SAP',
-    'NM_FORN_SAP',
-    'TIPO_MATERIAL',
-    'MATERIAL',
-    'FAMILIA',
-    'TEXTO_BREVE_MATERIAL',
-    'QUANTIDADE',
-    'DT_CRIACAO_RESERVA',
-    'RESERVA',
-    'NF_CORRIGIDA',
-    'STATUS_NF',
-    'TRANSPORTADORA',
-    'DT_EXPEDICAO',
-    'DT_LIMITE_ORIGINAL',
+    df.columns = df.columns.str.strip().str.upper()
 
-]
+    df_filtrado = df[
+        (df["NM_MUNICIPIO_SAP"] == "PORTO ALEGRE") &
+        (df["STATUS_NF"] != "ENTREGA CONCLUIDA") &
+        (df["NM_FORN_SAP"].astype(str).str.contains("PROCISA", case=False, na=False))
+    ]
 
-df_reservas_porto_alegre = df_reservas_porto_alegre.loc[:, colunas_desejadas]
+    colunas_desejadas = [
+        'NM_MUNICIPIO_SAP',
+        'NM_FORN_SAP',
+        'TIPO_MATERIAL',
+        'MATERIAL',
+        'FAMILIA',
+        'TEXTO_BREVE_MATERIAL',
+        'QUANTIDADE',
+        'DT_CRIACAO_RESERVA',
+        'RESERVA',
+        'NF_CORRIGIDA',
+        'STATUS_NF',
+        'TRANSPORTADORA',
+        'DT_EXPEDICAO',
+        'DT_LIMITE_ORIGINAL',
+    ]
 
-# Conferência final
-print(df_reservas_porto_alegre.columns.tolist())
+    df_final = df_filtrado.loc[:, colunas_desejadas]
 
-# Exportar
-df_reservas_porto_alegre.to_excel(RELATORIO/
-    "reservas_porto_alegre_procisa.xlsx",
-    index=False
-)
+    # 🔹 Debug
+    print(df_final.columns.tolist())
+
+    # 🔹 Exportar
+    RELATORIO.mkdir(exist_ok=True)
+    df_final.to_excel(
+        RELATORIO_DE_RESERVAS / "reservas_porto_alegre_procisa.xlsx",
+        index=False
+    )
+
+    print("✔ Relatório de reservas Porto Alegre gerado com sucesso!")
+
+if __name__ == "__main__":
+    gerar_reservas_porto_alegre("")
