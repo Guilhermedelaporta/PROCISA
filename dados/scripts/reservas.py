@@ -5,7 +5,7 @@ pd.set_option('display.max_columns', None)
 pd.set_option('display.width', None)
 
 def carregar_reservas(nome_arquivo):
-    caminho = ENTRADA_RESERVA / "reservas.xlsx"
+    caminho = ENTRADA_RESERVA / "reserva.xlsx"
     return pd.read_excel(caminho)
 
 def gerar_reservas_porto_alegre(nome_arquivo):
@@ -42,7 +42,7 @@ def gerar_reservas_porto_alegre(nome_arquivo):
     print(df_final.columns.tolist())
 
     # 🔹 Exportar
-    RELATORIO.mkdir(exist_ok=True)
+    RELATORIO_DE_RESERVAS.mkdir(exist_ok=True)
     df_final.to_excel(
         RELATORIO_DE_RESERVAS / "reservas_porto_alegre_procisa.xlsx",
         index=False

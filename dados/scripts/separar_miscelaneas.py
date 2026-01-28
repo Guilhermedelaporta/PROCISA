@@ -1,5 +1,5 @@
 import pandas as pd
-from paths import ENTRADA_MISCELANEA,REGRAS_MISCELANEAS,RELATORIO_DE_MISCELANEAS,SAIDA
+from paths import ENTRADA_MISCELANEA,REGRAS_MISCELANEAS,RELATORIO_DE_MISCELANEAS,SAIDA,MISCELANEA_EM_CAMPO
 
 # =============================
 # CONFIGURAÇÕES
@@ -24,9 +24,9 @@ def executar():
     # -------------------------
     # 1. LEITURA DOS ARQUIVOS
     # -------------------------
-    df_mov = pd.read_excel(ENTRADA_MISCELANEA / "movimentacao_tecnico.xlsx")
+    df_mov = pd.read_excel(MISCELANEA_EM_CAMPO / "movimentacao_tecnico.xlsx")
     df_kit = pd.read_excel(REGRAS_MISCELANEAS / "kit_minimo_de_miscelanea.xlsx")
-    df_estoque = pd.read_excel(ENTRADA_MISCELANEA / "estoque_miscelanea.xlsx")
+    df_estoque = pd.read_excel(ENTRADA_MISCELANEA / "estoque_de_miscelanea.xlsx")
 
     # -------------------------
     # 2. PADRONIZAÇÃO

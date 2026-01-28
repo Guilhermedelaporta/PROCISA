@@ -67,12 +67,39 @@ def executar():
                         "QUANTIDADE": qtd_separar
                     })
 
-    pd.DataFrame(linhas).to_excel(
-        SAIDA / f"separacao_de_equipamentos.xlsx",
-        index=False
-    )
+    df_final = pd.DataFrame(linhas)
 
-    print(f"✔ Separação gerada com sucesso para!")
+    # 🔹 Contar técnicos únicos
+    tecnicos_unicos = df_final["TECNICO"].unique()
+
+    separadores = ["GUILHERME", "FABRICIO", "ERICK"]
+
+    # 🔹 Mapear técnico → separador
+    mapa_separadores = {
+        tecnico: separadores[i % len(separadores)]
+        for i, tecnico in enumerate(tecnicos_unicos)
+    }
+
+    df_final["SEPARADOR"] = df_final["TECNICO"].map(mapa_separadores)
+
+    # 🔹 Gerar Excel com 5 abas
+    arquivo_saida = SAIDA / "separacao_de_equipamentos.xlsx"
+
+    with pd.ExcelWriter(arquivo_saida, engine="openpyxl") as writer:
+        for separador in separadores:
+            aba = df_final[df_final["SEPARADOR"] == separador]
+
+            # Se não tiver nada pra pessoa, cria aba vazia mesmo
+            aba.to_excel(
+                writer,
+                sheet_name=separador.title(),
+                index=False
+            )
+
+    print("✔ Separação gerada com sucesso!")
+    print(f"✔ Total de técnicos: {len(tecnicos_unicos)}")
+    print(f"✔ Arquivo criado com {len(separadores)} abas (uma por separador)")
+
 
 if __name__ == "__main__":
     executar()

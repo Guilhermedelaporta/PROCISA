@@ -12,5 +12,8 @@ ENTRADA_MISCELANEA = BASE / "entrada" / "estoque_miscelanea"
 RELATORIO_DE_EQUIPAMENTOS = BASE / "relatorios" / "equipamentos"
 RELATORIO_DE_MISCELANEAS = BASE / "relatorios" / "miscelaneas"
 RELATORIO_DE_RESERVAS = BASE / "relatorios" / "reservas"
+MISCELANEA_EM_CAMPO = BASE / "entrada" / "miscelaneas_em_campo"
 SAIDA = BASE / "saida"
+BAIXAS_DE_MISCELANEAS = BASE / "entrada" / "baixa_de_miscelaneas"
+ENTRADA_ESCALA_COMPLETA = BASE / "entrada" / "escala_do_dia"
 

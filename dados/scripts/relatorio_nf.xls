@@ -1,0 +1,4261 @@
+<table border='2px'><tr bgcolor='#87AFC6'>
+				<td>#</td>
+				<td>DMT</td>
+				<td>Série</td>
+				<td>Endereçável Principal</td>
+				<td>Modelo Fabricante</td>
+				<td>Material SAP</td>
+				<td>Item JDE</td>
+				<td>Local</td>
+				<td>Estado Equipamento</td>
+			</tr>
+					<td>1</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3600183</td>
+					<td>3CF9F0A4D9B8</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>2</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3608290</td>
+					<td>3CF9F0A597BA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>3</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3612787</td>
+					<td>3CF9F0A60120</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>4</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3R02224</td>
+					<td>3CF9F0A2B3E6</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>5</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3R15190</td>
+					<td>3CF9F0A3E3CA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>6</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ4403895</td>
+					<td>3CF9F0ABBA28</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>7</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ4400825</td>
+					<td>3CF9F0AB7234</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>8</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3R25121</td>
+					<td>3CF9F0A4CC8C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>9</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ4412960</td>
+					<td>3CF9F0AC8E9E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>10</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3R18314</td>
+					<td>3CF9F0A42D02</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>11</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ4410417</td>
+					<td>3CF9F0AC5304</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>12</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3622629</td>
+					<td>3CF9F0A6E7CC</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>13</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5B03080</td>
+					<td>3CF9F0AEC7EA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>14</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5B05592</td>
+					<td>3CF9F0AF02CA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>15</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5B09225</td>
+					<td>3CF9F0AF57F0</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>16</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5N11116</td>
+					<td>3CF9F0ADC9FE</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>17</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5N08213</td>
+					<td>3CF9F0AD85F4</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>18</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6M02531</td>
+					<td>C4EBFF889D22</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>19</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6M13837</td>
+					<td>C4EBFF89A61E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>20</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7103289</td>
+					<td>C4EBFF8A157E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>21</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7105985</td>
+					<td>C4EBFF8A54AE</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>22</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6M14984</td>
+					<td>C4EBFF89C100</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>23</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7901451</td>
+					<td>C4EBFF8C4012</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>24</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7908665</td>
+					<td>C4EBFF8CE926</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>25</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7L05404</td>
+					<td>C4EBFF8E0350</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>26</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7T08373</td>
+					<td>C4EBFF8FAF7E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>27</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7T10304</td>
+					<td>C4EBFF8FDCC0</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>28</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8F03130</td>
+					<td>689E29FC6C39</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>29</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8111898</td>
+					<td>689E29BCF5A7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>30</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8111202</td>
+					<td>689E29BCE557</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>31</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8115388</td>
+					<td>689E29BD4773</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>32</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M08335</td>
+					<td>843C991F8B45</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>33</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M13888</td>
+					<td>843C99200D6B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>34</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M41554</td>
+					<td>843C992295D7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>35</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8F12617</td>
+					<td>689E29FD4A93</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>36</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9308383</td>
+					<td>843C993359B7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>37</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6M08222</td>
+					<td>C4EBFF892284</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>38</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9304642</td>
+					<td>843C99330209</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>39</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9306914</td>
+					<td>843C99333749</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>40</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9304238</td>
+					<td>843C9932F891</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>41</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J36242</td>
+					<td>843C992F22A1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>42</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J36255</td>
+					<td>843C992F22EF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>43</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M31517</td>
+					<td>843C9921AA99</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>44</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J23229</td>
+					<td>843C992DF1A3</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>45</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J16761</td>
+					<td>843C992D5A0B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>46</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9323146</td>
+					<td>843C9934B3B9</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>47</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J10993</td>
+					<td>843C992CD2DB</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>48</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M27403</td>
+					<td>843C99214A2D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>49</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA07144</td>
+					<td>14CA56D2EC4B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>50</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA08769</td>
+					<td>14CA56D31261</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>51</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9337910</td>
+					<td>843C99360DC1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>52</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA22056</td>
+					<td>14CA56D449CB</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>53</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y11471</td>
+					<td>14CA56CDB755</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>54</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y38201</td>
+					<td>14CA56D029D1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>55</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y58613</td>
+					<td>14CA56D20839</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>56</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y61052</td>
+					<td>14CA56D24163</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>57</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q00801</td>
+					<td>F4E84F80C6C6</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>58</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y58991</td>
+					<td>14CA56D21115</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>59</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q20752</td>
+					<td>F4E84F829A60</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>60</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3R16092</td>
+					<td>3CF9F0A3F8EE</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>61</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3R19319</td>
+					<td>3CF9F0A44490</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>62</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3R15993</td>
+					<td>3CF9F0A3F69C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>63</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3R13762</td>
+					<td>3CF9F0A3C252</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>64</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3621491</td>
+					<td>3CF9F0A6CD20</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>65</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ4404835</td>
+					<td>3CF9F0ABD030</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>66</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ4410989</td>
+					<td>3CF9F0AC606C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>67</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ4A05812</td>
+					<td>3CF9F0AA807E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>68</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ3611843</td>
+					<td>3CF9F0A5EB00</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>69</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ4A15141</td>
+					<td>3CF9F0AB5B24</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>70</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5211643</td>
+					<td>3CF9F0A83BF8</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>71</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5211958</td>
+					<td>3CF9F0A8435A</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>72</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5207241</td>
+					<td>3CF9F0A7D4CC</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>73</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5B08876</td>
+					<td>3CF9F0AF4FC2</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>74</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5B00815</td>
+					<td>3CF9F0AE92D4</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>75</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5B01035</td>
+					<td>3CF9F0AE97FC</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>76</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5B12676</td>
+					<td>3CF9F0AFA8D2</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>77</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5B11287</td>
+					<td>3CF9F0AF8844</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>78</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5N03261</td>
+					<td>3CF9F0AD11E4</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>79</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5B14374</td>
+					<td>3CF9F0AFD09E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>80</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5B10275</td>
+					<td>3CF9F0AF708C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>81</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5N07955</td>
+					<td>3CF9F0AD7FE8</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>82</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5N12046</td>
+					<td>3CF9F0ADDFCA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>83</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ5N02798</td>
+					<td>3CF9F0AD070A</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>84</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6307016</td>
+					<td>3CF9F070489B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>85</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6303843</td>
+					<td>3CF9F06FFE3D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>86</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6302475</td>
+					<td>3CF9F06FDE2D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>87</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6308351</td>
+					<td>3CF9F07067E5</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>88</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6304763</td>
+					<td>3CF9F07013CD</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>89</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6310435</td>
+					<td>3CF9F07098BD</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>90</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6310739</td>
+					<td>3CF9F0709FDD</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>91</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ6M05430</td>
+					<td>C4EBFF88E114</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>92</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7105682</td>
+					<td>C4EBFF8A4D94</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>93</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7502354</td>
+					<td>C4EBFF8B2A68</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>94</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7111381</td>
+					<td>C4EBFF8AD326</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>95</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7L04036</td>
+					<td>C4EBFF8DE340</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>96</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7909252</td>
+					<td>C4EBFF8CF6E8</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>97</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7907582</td>
+					<td>C4EBFF8CCFC4</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>98</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7L03353</td>
+					<td>C4EBFF8DD33E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>99</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7L00133</td>
+					<td>C4EBFF8D87C6</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>100</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7L00244</td>
+					<td>C4EBFF8D8A60</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>101</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7L09619</td>
+					<td>C4EBFF8E661A</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>102</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7L01663</td>
+					<td>C4EBFF8DABA2</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>103</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7L05654</td>
+					<td>C4EBFF8E092C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>104</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8101902</td>
+					<td>689E29BC0B5F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>105</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8100441</td>
+					<td>689E29BBE921</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>106</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8101386</td>
+					<td>689E29BBFF47</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>107</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7T01851</td>
+					<td>C4EBFF8F16A2</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>108</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7T02249</td>
+					<td>C4EBFF8F1FF6</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>109</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8102458</td>
+					<td>689E29BC1867</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>110</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7T11025</td>
+					<td>C4EBFF8FEDA6</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>111</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7T10994</td>
+					<td>C4EBFF8FECEC</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>112</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7T09398</td>
+					<td>C4EBFF8FC784</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>113</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7T10184</td>
+					<td>C4EBFF8FD9F0</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>114</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ7T07027</td>
+					<td>C4EBFF8F8FF2</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>115</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8104950</td>
+					<td>689E29BC52CF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>116</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8110898</td>
+					<td>689E29BCDE37</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>117</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8116817</td>
+					<td>689E29BD68F1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>118</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8114550</td>
+					<td>689E29BD33CF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>119</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8112386</td>
+					<td>689E29BD0117</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>120</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8112171</td>
+					<td>689E29BCFC0D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>121</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8124543</td>
+					<td>689E29BE1E05</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>122</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8124300</td>
+					<td>689E29BE1853</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>123</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8125137</td>
+					<td>689E29BE2BF1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>124</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8125325</td>
+					<td>689E29BE3059</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>125</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8125580</td>
+					<td>689E29BE3653</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>126</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8122786</td>
+					<td>689E29BDF4D7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>127</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M02872</td>
+					<td>843C991F0B3B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>128</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M04107</td>
+					<td>843C991F282D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>129</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M04134</td>
+					<td>843C991F28CF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>130</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M05743</td>
+					<td>843C991F4E85</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>131</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M04422</td>
+					<td>843C991F2F8F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>132</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J36633</td>
+					<td>843C992F2BCB</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>133</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9317811</td>
+					<td>843C993436AF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>134</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9319667</td>
+					<td>843C9934622F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>135</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9318582</td>
+					<td>843C993448C1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>136</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M29982</td>
+					<td>843C9921869F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>137</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M32495</td>
+					<td>843C9921C185</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>138</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M32400</td>
+					<td>843C9921BF4B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>139</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M32853</td>
+					<td>843C9921C9E9</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>140</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9321690</td>
+					<td>843C99349199</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>141</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9323248</td>
+					<td>843C9934B61D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>142</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9314636</td>
+					<td>843C9933EC45</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>143</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J12850</td>
+					<td>843C992CFE61</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>144</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J12663</td>
+					<td>843C992CF9FF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>145</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J12835</td>
+					<td>843C992CFE07</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>146</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9320245</td>
+					<td>843C99346FBB</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>147</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9320349</td>
+					<td>843C9934722B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>148</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9322747</td>
+					<td>843C9934AA5F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>149</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M37314</td>
+					<td>843C99223277</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>150</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J29277</td>
+					<td>843C992E7F63</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>151</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J29210</td>
+					<td>843C992E7DD1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>152</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J32645</td>
+					<td>843C992ECE53</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>153</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J05498</td>
+					<td>843C992C5211</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>154</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9J05448</td>
+					<td>843C992C50E5</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>155</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M35626</td>
+					<td>843C99220AE7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>156</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M35800</td>
+					<td>843C99220EFB</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>157</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9322535</td>
+					<td>843C9934A567</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>158</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9322564</td>
+					<td>843C9934A615</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>159</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA06506</td>
+					<td>14CA56D2DD57</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>160</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA06774</td>
+					<td>14CA56D2E39F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>161</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA07071</td>
+					<td>14CA56D2EA95</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>162</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA00737</td>
+					<td>14CA56D25621</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>163</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M24691</td>
+					<td>843C99210A9D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>164</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ8M22937</td>
+					<td>843C9920E181</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>165</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9330489</td>
+					<td>843C99355FD3</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>166</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9329974</td>
+					<td>843C993553C1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>167</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQ9341134</td>
+					<td>843C99365951</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>168</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA23644</td>
+					<td>14CA56D46F03</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>169</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA49552</td>
+					<td>14CA56D6CE3B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>170</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA52062</td>
+					<td>14CA56D7090F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>171</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA40614</td>
+					<td>14CA56D5FCBF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>172</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA46183</td>
+					<td>14CA56D67F45</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>173</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA45910</td>
+					<td>14CA56D678DF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>174</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA38697</td>
+					<td>14CA56D5CFD1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>175</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA39106</td>
+					<td>14CA56D5D967</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>176</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA43336</td>
+					<td>14CA56D63C8B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>177</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA13219</td>
+					<td>14CA56D37AAD</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>178</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA45748</td>
+					<td>14CA56D67513</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>179</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA40153</td>
+					<td>14CA56D5F1F1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>180</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA37395</td>
+					<td>14CA56D5B14D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>181</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y20578</td>
+					<td>14CA56CE8CC7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>182</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y01533</td>
+					<td>14CA56CCCE69</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>183</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y07233</td>
+					<td>14CA56CD5401</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>184</td>
+					<td>442967586</td>
+					<td>ZTE3ANNQCA53721</td>
+					<td>14CA56D72FF1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>185</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y00860</td>
+					<td>14CA56CCBEA3</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>186</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y42709</td>
+					<td>14CA56D09379</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>187</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y42801</td>
+					<td>14CA56D095A1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>188</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y44486</td>
+					<td>14CA56D0BD1F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>189</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y44488</td>
+					<td>14CA56D0BD2B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>190</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y05971</td>
+					<td>14CA56CD366D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>191</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y04527</td>
+					<td>14CA56CD1495</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>192</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y44693</td>
+					<td>14CA56D0C1F9</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>193</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y05135</td>
+					<td>14CA56CD22D5</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>194</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y50209</td>
+					<td>14CA56D14341</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>195</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y55815</td>
+					<td>14CA56D1C6A5</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>196</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y37008</td>
+					<td>14CA56D00DDB</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>197</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y57387</td>
+					<td>14CA56D1EB7D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>198</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q08095</td>
+					<td>F4E84F8171BA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>199</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q00661</td>
+					<td>F4E84F80C37E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>200</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q07730</td>
+					<td>F4E84F81692C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>201</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR1Y35806</td>
+					<td>14CA56CFF1AF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>202</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q15554</td>
+					<td>F4E84F82208C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>203</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q52045</td>
+					<td>F4E84F8577CE</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>204</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q43739</td>
+					<td>F4E84F84B522</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>205</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q44446</td>
+					<td>F4E84F84C5B4</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>206</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q53256</td>
+					<td>F4E84F859430</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>207</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3J11791</td>
+					<td>F4E84F8762BA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>208</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y00599</td>
+					<td>4896D94FCEC2</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>209</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y24311</td>
+					<td>4896D951FA82</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>210</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y20375</td>
+					<td>4896D9519E42</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>211</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y13833</td>
+					<td>4896D95104EE</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>212</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y34686</td>
+					<td>4896D952EDAC</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>213</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y34644</td>
+					<td>4896D952ECB0</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>214</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y39713</td>
+					<td>4896D953637E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>215</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N41616</td>
+					<td>4896D9592A78</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>216</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N37026</td>
+					<td>4896D958BEE4</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>217</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W43966</td>
+					<td>48D682328A3E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>218</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B01583</td>
+					<td>3891484911C1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>219</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R60850</td>
+					<td>48D6823B16EE</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>220</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R60831</td>
+					<td>48D6823B167C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>221</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B06063</td>
+					<td>389148497AC1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>222</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B05231</td>
+					<td>389148496741</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>223</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B04915</td>
+					<td>389148495FD9</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>224</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R53497</td>
+					<td>48D6823A6A98</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>225</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B28184</td>
+					<td>3891484B8137</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>226</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B24521</td>
+					<td>3891484B2B5D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>227</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B54951</td>
+					<td>3891484DF491</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>228</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B57647</td>
+					<td>3891484E33C1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>229</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C17262</td>
+					<td>389148501B9B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>230</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B59538</td>
+					<td>3891484E6013</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>231</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C33576</td>
+					<td>3891485199F7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>232</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C37884</td>
+					<td>38914851FEEF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>233</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9309958</td>
+					<td>D89A0D83496F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>234</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F04116</td>
+					<td>D89A0DA33E5B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>235</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F04170</td>
+					<td>D89A0DA33F9F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>236</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F24894</td>
+					<td>D89A0DA52557</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>237</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F42890</td>
+					<td>D89A0DA6CB1F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>238</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W25606</td>
+					<td>D89A0DAAB447</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>239</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W31054</td>
+					<td>D89A0DAB33F7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>240</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAD19512</td>
+					<td>D89A0DAFA3B3</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>241</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q29611</td>
+					<td>F4E84F836A02</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>242</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q15726</td>
+					<td>F4E84F822494</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>243</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q28341</td>
+					<td>F4E84F834C3E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>244</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q27701</td>
+					<td>F4E84F833D3E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>245</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q43224</td>
+					<td>F4E84F84A910</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>246</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q51401</td>
+					<td>F4E84F8568B6</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>247</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q33928</td>
+					<td>F4E84F83CF30</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>248</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q44466</td>
+					<td>F4E84F84C62C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>249</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR2Q41058</td>
+					<td>F4E84F84764C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>250</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3J09070</td>
+					<td>F4E84F8722F4</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>251</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3J26672</td>
+					<td>F4E84F88BF80</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>252</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3J22590</td>
+					<td>F4E84F885FD4</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>253</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3J24591</td>
+					<td>F4E84F888EBA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>254</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y00949</td>
+					<td>4896D94FD6F6</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>255</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3J42222</td>
+					<td>F4E84F8A2BF4</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>256</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3J23677</td>
+					<td>F4E84F88794E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>257</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3J33635</td>
+					<td>F4E84F8962B2</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>258</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3J24720</td>
+					<td>F4E84F8891C0</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>259</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y14160</td>
+					<td>4896D9510C98</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>260</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y14617</td>
+					<td>4896D951174E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>261</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y10537</td>
+					<td>4896D950B7AE</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>262</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y10772</td>
+					<td>4896D950BD30</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>263</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y43206</td>
+					<td>4896D953B55C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>264</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y45943</td>
+					<td>4896D953F582</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>265</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y53720</td>
+					<td>4896D954ABC8</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>266</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y55667</td>
+					<td>4896D954D96A</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>267</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N00796</td>
+					<td>4896D9556DC0</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>268</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y59190</td>
+					<td>4896D9552BFC</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>269</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N00256</td>
+					<td>4896D9556118</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>270</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR3Y52834</td>
+					<td>4896D9549704</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>271</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N11178</td>
+					<td>4896D9566114</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>272</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N15482</td>
+					<td>4896D956C5F4</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>273</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N11651</td>
+					<td>4896D9566C2A</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>274</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N07417</td>
+					<td>4896D95608EE</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>275</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N07509</td>
+					<td>4896D9560B16</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>276</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N04843</td>
+					<td>4896D955CC9A</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>277</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N40071</td>
+					<td>4896D9590642</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>278</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N07744</td>
+					<td>4896D9561098</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>279</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N31793</td>
+					<td>4896D958443E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>280</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N31712</td>
+					<td>4896D9584258</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>281</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N24651</td>
+					<td>4896D9579CDA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>282</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N24754</td>
+					<td>4896D9579F44</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>283</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N29763</td>
+					<td>4896D95814AA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>284</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N29693</td>
+					<td>4896D9581306</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>285</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N55531</td>
+					<td>4896D95A709A</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>286</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N59730</td>
+					<td>4896D95AD304</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>287</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N48217</td>
+					<td>4896D959C52E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>288</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N47075</td>
+					<td>4896D959AA6A</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>289</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N32146</td>
+					<td>4896D9584C84</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>290</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR4N24071</td>
+					<td>4896D9578F42</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>291</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W58209</td>
+					<td>48D68233D810</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>292</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W24228</td>
+					<td>48D68230BBA2</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>293</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W32746</td>
+					<td>48D682318346</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>294</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W20038</td>
+					<td>48D68230596E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>295</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W11756</td>
+					<td>48D6822F9752</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>296</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W15707</td>
+					<td>48D6822FF3EC</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>297</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W13334</td>
+					<td>48D6822FBC4E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>298</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W13950</td>
+					<td>48D6822FCABE</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>299</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R04097</td>
+					<td>48D68235E4C8</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>300</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R03137</td>
+					<td>48D68235CE48</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>301</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W74050</td>
+					<td>48D682354B56</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>302</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W53664</td>
+					<td>48D682336D8A</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>303</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W34128</td>
+					<td>48D68231A3AA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>304</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W52068</td>
+					<td>48D682334822</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>305</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W58842</td>
+					<td>48D68233E6E6</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>306</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W28350</td>
+					<td>48D682311C3E</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>307</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W61493</td>
+					<td>48D682342508</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>308</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W67818</td>
+					<td>48D68234B946</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>309</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W67611</td>
+					<td>48D68234B46C</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>310</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R09968</td>
+					<td>48D682366E62</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>311</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R09020</td>
+					<td>48D68236582A</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>312</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R08189</td>
+					<td>48D6823644B0</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>313</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W73714</td>
+					<td>48D682354376</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>314</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR5W73480</td>
+					<td>48D682353DFA</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>315</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R32008</td>
+					<td>48D6823872F2</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>316</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R38224</td>
+					<td>48D6823904A2</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>317</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R42977</td>
+					<td>48D682397408</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>318</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B04425</td>
+					<td>38914849545D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>319</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B13121</td>
+					<td>3891484A202D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>320</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B02335</td>
+					<td>389148492361</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>321</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R59689</td>
+					<td>48D6823AFBB8</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>322</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR6R58085</td>
+					<td>48D6823AD620</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>323</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B31345</td>
+					<td>3891484BCB4D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>324</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B36722</td>
+					<td>3891484C4953</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>325</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B26736</td>
+					<td>3891484B5F47</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>326</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B26730</td>
+					<td>3891484B5F23</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>327</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B40388</td>
+					<td>3891484C9F3F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>328</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C14181</td>
+					<td>3891484FD365</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>329</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C16125</td>
+					<td>3891485000F5</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>330</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR7B24334</td>
+					<td>3891484B26FB</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>331</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C15920</td>
+					<td>3891484FFC27</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>332</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C14691</td>
+					<td>3891484FDF59</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>333</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C15634</td>
+					<td>3891484FF573</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>334</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C15293</td>
+					<td>3891484FED75</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>335</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C29944</td>
+					<td>3891485144D7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>336</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C03124</td>
+					<td>3891484ED03F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>337</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C32789</td>
+					<td>389148518785</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>338</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C40452</td>
+					<td>389148523B1F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>339</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C40799</td>
+					<td>389148524341</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>340</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C38427</td>
+					<td>389148520BA9</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>341</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9302274</td>
+					<td>D89A0D829557</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>342</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C59352</td>
+					<td>38914853F617</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>343</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C57746</td>
+					<td>38914853D073</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>344</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR8C54933</td>
+					<td>389148538E85</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>345</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9324521</td>
+					<td>D89A0D849EC1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>346</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9328102</td>
+					<td>D89A0D84F2AF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>347</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9326826</td>
+					<td>D89A0D84D4C7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>348</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9331157</td>
+					<td>D89A0D853A49</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>349</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9323465</td>
+					<td>D89A0D848601</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>350</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9323093</td>
+					<td>D89A0D847D49</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>351</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F06497</td>
+					<td>D89A0DA37629</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>352</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F27920</td>
+					<td>D89A0DA56C43</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>353</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F46853</td>
+					<td>D89A0DA72801</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>354</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F48799</td>
+					<td>D89A0DA7559D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>355</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W07523</td>
+					<td>D89A0DA90C75</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>356</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W14287</td>
+					<td>D89A0DA9AAFD</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>357</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W10036</td>
+					<td>D89A0DA9475B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>358</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W25218</td>
+					<td>D89A0DAAAB2F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>359</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W25300</td>
+					<td>D89A0DAAAD1B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>360</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F55409</td>
+					<td>D89A0DA7F089</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>361</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F43463</td>
+					<td>D89A0DA6D88D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>362</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F56577</td>
+					<td>D89A0DA80BE9</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>363</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F56691</td>
+					<td>D89A0DA80E95</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>364</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F56981</td>
+					<td>D89A0DA81561</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>365</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W54250</td>
+					<td>D89A0DAD539F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>366</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAD06353</td>
+					<td>D89A0DAE6F49</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>367</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W39988</td>
+					<td>D89A0DAC055B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>368</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W40056</td>
+					<td>D89A0DAC06F3</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>369</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W34421</td>
+					<td>D89A0DAB82E1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>370</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W32017</td>
+					<td>D89A0DAB4A89</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>371</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W32356</td>
+					<td>D89A0DAB527B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>372</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9W29320</td>
+					<td>D89A0DAB0B53</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>373</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAD16968</td>
+					<td>D89A0DAF6813</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>374</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAD18273</td>
+					<td>D89A0DAF86A9</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>375</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAD18127</td>
+					<td>D89A0DAF833D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>376</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM00001</td>
+					<td>5872C987383F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>377</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM07397</td>
+					<td>5872C987E597</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>378</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM06147</td>
+					<td>5872C987C84B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>379</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM37308</td>
+					<td>5872C98AA2A1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>380</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM38135</td>
+					<td>5872C98AB603</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>381</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM34740</td>
+					<td>5872C98A6671</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>382</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM27278</td>
+					<td>5872C989B78D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>383</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM72969</td>
+					<td>5872C98DE66F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>384</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM70696</td>
+					<td>5872C98DB129</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>385</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB702040</td>
+					<td>5872C98E6901</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>386</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB736100</td>
+					<td>5872C9918749</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>387</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB716461</td>
+					<td>5872C98FBAFF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>388</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB750334</td>
+					<td>5872C992D4E5</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>389</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB750347</td>
+					<td>5872C992D533</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>390</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB761083</td>
+					<td>5872C993D0D3</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>391</td>
+					<td>442967588</td>
+					<td>ZTE3ANNR2Q55620</td>
+					<td>F4E84F85CB98</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>392</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAD19441</td>
+					<td>D89A0DAFA209</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>393</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM02370</td>
+					<td>5872C9876FC5</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>394</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM09187</td>
+					<td>5872C9880F8B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>395</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM09218</td>
+					<td>5872C9881045</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>396</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM11961</td>
+					<td>5872C988508F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>397</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM05530</td>
+					<td>5872C987B9D5</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>398</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM37641</td>
+					<td>5872C98AAA6F</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>399</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM39668</td>
+					<td>5872C98AD9F1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>400</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM35561</td>
+					<td>5872C98A79AF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>401</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM32538</td>
+					<td>5872C98A32D5</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>402</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM48105</td>
+					<td>5872C98B9FAF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>403</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM48099</td>
+					<td>5872C98B9F8B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>404</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM25951</td>
+					<td>5872C9899873</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>405</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM26018</td>
+					<td>5872C9899A05</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>406</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM23007</td>
+					<td>5872C9895373</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>407</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM30115</td>
+					<td>5872C989FA0B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>408</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM50500</td>
+					<td>5872C98BD7D1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>409</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM60267</td>
+					<td>5872C98CBCBB</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>410</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB701057</td>
+					<td>5872C98E51F7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>411</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB701914</td>
+					<td>5872C98E660D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>412</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB702073</td>
+					<td>5872C98E69C7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>413</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F13397</td>
+					<td>D89A0DA417E1</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>414</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F13380</td>
+					<td>D89A0DA4177B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>415</td>
+					<td>442967586</td>
+					<td>ZTE3ANNR9F13230</td>
+					<td>D89A0DA413F7</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>416</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB704003</td>
+					<td>5872C98E9703</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>417</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB703949</td>
+					<td>5872C98E95BF</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>418</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM58907</td>
+					<td>5872C98C9CDB</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>419</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM59032</td>
+					<td>5872C98C9FC9</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>420</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM58790</td>
+					<td>5872C98C9A1D</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>421</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB701183</td>
+					<td>5872C98E54EB</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>422</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB701969</td>
+					<td>5872C98E6757</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>423</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM61152</td>
+					<td>5872C98CD179</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>424</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRAM72829</td>
+					<td>5872C98DE327</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr>
+					<td>425</td>
+					<td>442967586</td>
+					<td>ZTE3ANNRB722527</td>
+					<td>5872C990492B</td>
+					<td>TERMINAL GPON ONT WIFI6 F6600P-NACIONAL</td>
+					<td>000000000041001590</td>
+					<td></td>
+					<td>PROCISA DO BRASIL PROJETOS, CONSTRU</td>
+					<td>INICIALIZADO</td>
+				</tr></table>
